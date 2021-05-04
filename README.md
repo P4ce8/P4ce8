@@ -4,17 +4,24 @@
 - IridiumCore
 - IridiumDisguise
 
+---
+
 ## My Projects in [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 - FlareMusic "Multipurpose Music Discord Bot)
+
+---
 
 ## What I'm currently working on:
 - Viper "Multipurse Discord Bot, Featuring Music Features within any guild"
 
+---
+
 ### Reach out to me:
 
-[<img align="left" alt="is-really.fun" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="HarutoHiroki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
+<img align="left" alt="Discord" width="26px" src="https://logos-world.net/wp-content/uploads/2020/11/Discord-Emblem.png" />
+- Discord: Swift#7379
+
+---
 
 ### Software I use to Program:
 <img align="left" alt="IntelliJ" width="26px" src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" /> 
@@ -22,8 +29,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
 <br />
 <br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwiftSwft&layout=compact&hide_border=true&theme=radical)
 
 ---
 
