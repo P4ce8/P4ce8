@@ -1,4 +1,4 @@
-### Hello there! My name is [Swift!](https://github.com/SwiftSwft/) 😊
+### Hello there! My name is [Swift](https://github.com/SwiftSwft/)! 😊
 - I am a self-taught developer learning to be better at programming,
 - My current age is 14 years old, My goal is to build something that can influence the world.
 
