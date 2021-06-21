@@ -1,10 +1,11 @@
-### Hello there! My name is [Swift](https://github.com/SwiftSwft/)! 😊
+### Hello there! My name is [iNano/Nano](https://github.com/iiNano/)! 😊
  I am a self-taught developer learning to be better at programming,
  My current age is 14 years old, My goal is to build something that can influence the world.
 
 ## My Projects in [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 - IridiumCore
 - IridiumDisguise
+- RadonReports
 
 ---
 
@@ -21,7 +22,7 @@
 ### Reach out to me:
 
 <img align="left" alt="Discord" width="26px" src="https://logos-world.net/wp-content/uploads/2020/11/Discord-Emblem.png" />
-- Discord: Swift#7379
+- Discord: iNano#0001
 
 ---
 
