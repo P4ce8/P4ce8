@@ -1,21 +1,19 @@
-### Hello there! My name is [iNano/Nano](https://github.com/iiNano/)! 😊
+### Hello there! My name is [Nano](https://github.com/iiNano/)! 😊
  I am a self-taught developer learning to be better at programming,
  My current age is 14 years old, My goal is to build something that can influence the world.
 
 ## My Projects in [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
-- IridiumCore
-- IridiumDisguise
-- RadonReports
+- LithiumStaff and other Private Projects etc
 
 ---
 
 ## My Projects in [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-- FlareMusic "Multipurpose Music Discord Bot)
+- FlareMusic ("Multipurpose Music Discord Bot")
 
 ---
 
 ## What I'm currently working on:
-- Viper "Multipurse Discord Bot, Featuring Music Features within any guild"
+- LithiumStaff ("Advanced Staff Utility Plugin")
 
 ---
 
@@ -35,4 +33,4 @@
 
 ---
 
-<img align="left" alt="HarutoHiroki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SwiftSwft&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="HarutoHiroki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iiNano&show_icons=true&hide_border=true&theme=radical" />
