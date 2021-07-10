@@ -1,9 +1,9 @@
-### Hello there! My name is [Nano](https://github.com/iiNano/)! 😊
+### Hello there! My name is [Mist](https://github.com/xMistx/)! 😊
  I am a self-taught developer learning to be better at programming,
  My current age is 14 years old, My goal is to build something that can influence the world.
 
 ## My Projects in [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
-- LithiumStaff and other Private Projects etc
+- MistDuels and other Private Projects etc
 
 ---
 
@@ -13,14 +13,14 @@
 ---
 
 ## What I'm currently working on:
-- LithiumStaff ("Advanced Staff Utility Plugin")
+- Private projects with [Custom Development](https://github.com/custom-developments)
 
 ---
 
 ### Reach out to me:
 
 <img align="left" alt="Discord" width="26px" src="https://logos-world.net/wp-content/uploads/2020/11/Discord-Emblem.png" />
-- Discord: iNano#0001
+- Discord: Mist#0688
 
 ---
 
@@ -33,4 +33,4 @@
 
 ---
 
-<img align="left" alt="HarutoHiroki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iiNano&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="HarutoHiroki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xMistx&show_icons=true&hide_border=true&theme=radical" />
