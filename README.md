@@ -33,4 +33,4 @@
 
 ---
 
-<img align="left" alt="HarutoHiroki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xMistx&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Mist's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xMistx&show_icons=true&hide_border=true&theme=radical" />
