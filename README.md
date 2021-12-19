@@ -1,6 +1,6 @@
 ### Hello there! My name is [M1STY](https://github.com/xMistx/)! 😊
  I am a self-taught developer learning to be better at programming,
- My current age is 14 years old, My goal is to build something that can influence the world.
+ My current age is 15 years old, My goal is to build something that can influence the world.
 
 ## My Projects in [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 - MistDuels and other Private Projects etc
