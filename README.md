@@ -3,17 +3,17 @@
  My current age is 15 years old, My goal is to build something that can influence the world.
 
 ## My Projects in [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
-- MistDuels and other Private Projects etc
+- GapCore ("A Multi-feature Minecraft Server Core")
 
 ---
 
 ## My Projects in [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-- FlareMusic ("Multipurpose Music Discord Bot")
+- ArxBot ("Multipurpose Discord Bot made for ArxMC")
 
 ---
 
 ## What I'm currently working on:
-- Private projects with [Custom Development](https://github.com/custom-developments)
+- Private projects with [ArxMC Development](https://github.com/ArxMC)
 
 ---
 
