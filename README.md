@@ -20,7 +20,7 @@
 ### Reach out to me:
 
 <img align="left" alt="Discord" width="26px" src="https://logos-world.net/wp-content/uploads/2020/11/Discord-Emblem.png" />
-- Discord: M1STY#6130
+- Discord: vGap#6130
 
 ---
 
