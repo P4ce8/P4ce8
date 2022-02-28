@@ -1,4 +1,4 @@
-### Hello there! My name is [M1STY](https://github.com/xMistx/)! 😊
+### Hello there! My name is [Mist](https://github.com/xMistx/)! 😊
  I am a self-taught developer learning to be better at programming,
  My current age is 15 years old, My goal is to build something that can influence the world.
 
