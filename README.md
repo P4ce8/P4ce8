@@ -1,4 +1,4 @@
-### Hello there! My name is [Reallm](https://github.com/Rea1m/)! 😊
+### Hello there! My name is [Reallm or Realm/Rea1m](https://github.com/Rea1m/)! 😊
  I am a self-taught developer learning to be better at programming,
  My current age is 15 years old, My goal is to build something that can influence the world.
 
