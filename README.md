@@ -1,26 +1,26 @@
-### Hello there! My name is [Mist](https://github.com/xMistx/)! 😊
+### Hello there! My name is [Mist](https://github.com/Rea1m/)! 😊
  I am a self-taught developer learning to be better at programming,
  My current age is 15 years old, My goal is to build something that can influence the world.
 
 ## My Projects in [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
-- GapCore ("A Multi-feature Minecraft Server Core")
+- None at the moment
 
 ---
 
 ## My Projects in [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-- ArxBot ("Multipurpose Discord Bot made for ArxMC")
+- None at the moment
 
 ---
 
 ## What I'm currently working on:
-- Private projects with [ArxMC Development](https://github.com/ArxMC)
+- None at the moment
 
 ---
 
 ### Reach out to me:
 
 <img align="left" alt="Discord" width="26px" src="https://logos-world.net/wp-content/uploads/2020/11/Discord-Emblem.png" />
-- Discord: vGap#6130
+- Discord: Reallm#9037
 
 ---
 
@@ -33,4 +33,4 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=xMistx&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_border=true&hide_title=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Rea1m&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_border=true&hide_title=true)
