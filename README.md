@@ -1,4 +1,4 @@
-### Hello there! My name is [Reallm/Rea1m](https://github.com/Rea1m/)! 😊
+### Hello there, My name is [Reallm/Rea1m](https://github.com/Rea1m/)! 😊
  I am a self-taught 15 year old developer advancing each day.
  
 I develop in the following languages:
