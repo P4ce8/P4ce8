@@ -30,5 +30,3 @@ Reallm#9037
 ---
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rea1m&show_icons=true&hide_border=true&theme=dark)
-
-![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Rea1m&theme=dark&layout=compact&langs_count=6)
