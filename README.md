@@ -1,6 +1,5 @@
 ### Hello there! My name is [Reallm/Rea1m](https://github.com/Rea1m/)! 😊
- I am a self-taught developer learning to become better at coding!
- My current age is only 15 years old.
+ I am a self-taught 15 year old developer advancing each day.
  
 I develop in the following languages:
  - Java (Almost Fluent)
