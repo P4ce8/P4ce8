@@ -8,7 +8,7 @@
 ---
 
 ## My Projects in [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
-- Minecraft Server Core (Ranks/Punishments/Staff-Essentials/Essentials and more).
+- Yttrium (Ranks/Punishments/Staff-Essentials/Essentials and more).
 
 ---
 
@@ -18,7 +18,7 @@
 ---
 
 ## What I'm currently working on:
-- Kotlin project 
+- Yttrium (Ranks/Punishments/Staff-Essentials/Essentials and more).
 
 ---
 
