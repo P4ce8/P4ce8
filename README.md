@@ -17,7 +17,7 @@ I develop in the following languages:
 ### Reach out to me:
 
 <img align="left" alt="Discord" width="26px" src="https://logos-world.net/wp-content/uploads/2020/11/Discord-Emblem.png" />
-- Discord: Reallm#9037
+Discord: Reallm#9037
 
 ---
 
