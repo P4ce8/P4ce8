@@ -8,7 +8,7 @@
 ---
 
 ## My Projects in [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
-- Yttrium (Ranks/Punishments/Staff-Essentials/Essentials and more).
+- Ongoing Private Kotlin Project
 
 ---
 
@@ -18,7 +18,7 @@
 ---
 
 ## What I'm currently working on:
-- Yttrium (Ranks/Punishments/Staff-Essentials/Essentials and more).
+- Private Kotlin Project (Minecraft Core)
 
 ---
 
