@@ -1,9 +1,14 @@
-### Hello there! My name is [Reallm or Realm/Rea1m](https://github.com/Rea1m/)! 😊
+### Hello there! My name is [Reallm/Rea1m](https://github.com/Rea1m/)! 😊
  I am a self-taught developer learning to be better at programming,
- My current age is 15 years old, My goal is to build something that can influence the world.
+ My current age is only 15 years old, and my goal is to build something that can influence the world.
 
 ## My Projects in [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 - None at the moment
+
+---
+
+## My Projects in [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
+- Minecraft Server Core (Ranks/Punishments/Staff-Essentials/Essentials and more).
 
 ---
 
@@ -13,7 +18,7 @@
 ---
 
 ## What I'm currently working on:
-- None at the moment
+- Kotlin project 
 
 ---
 
@@ -24,9 +29,8 @@
 
 ---
 
-### Software I use to Program:
+### Software(s) I use to Code:
 <img align="left" alt="IntelliJ" width="26px" src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" /> 
-<img align="left" alt="Eclipse" width="26px" src="https://e7.pngegg.com/pngimages/631/720/png-clipart-eclipse-foundation-integrated-development-environment-ceylon-java-eclipse-miscellaneous-logo-thumbnail.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
 <br />
 <br />
