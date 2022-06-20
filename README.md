@@ -37,4 +37,6 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Rea1m&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_border=true&hide_title=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Rea1m&show_icons=true&hide_border=true&theme=dark)
+
+![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Rea1m&theme=dark&layout=compact&langs_count=6)
