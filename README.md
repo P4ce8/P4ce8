@@ -10,7 +10,7 @@ I develop in the following languages:
 ---
 
 ## What I'm currently working on:
-- Private Kotlin Project (Minecraft Core)
+- A private project
 
 ---
 
