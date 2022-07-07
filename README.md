@@ -6,14 +6,11 @@ I develop in the following languages:
  - JavaScript (Almost Fluent)
  - Kotlin (Only just started coding in Kotlin)
  - Python (Semi-Fluent)
-
+ 
+Reach out to me via: <img align="left" alt="Discord" width="26px" src="https://logos-world.net/wp-content/uploads/2020/11/Discord-Emblem.png" />
+Reallm#9037
 ---
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rea1m&show_icons=true&hide_border=true&theme=dark)
 ---
-
-### Reach out to me:
-
-<img align="left" alt="Discord" width="26px" src="https://logos-world.net/wp-content/uploads/2020/11/Discord-Emblem.png" />
-Reallm#9037
 
