@@ -9,11 +9,6 @@ I develop in the following languages:
 
 ---
 
-## What I'm currently working on:
-- A private project
-
----
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rea1m&show_icons=true&hide_border=true&theme=dark)
 ---
 
