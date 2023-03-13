@@ -9,6 +9,9 @@ I am familiar in the languages:
  - Python
  - HTML
  
+### What am I currently working on?
+As of right now I am working on some private projects and i'm currently working on a social media platform called Opium.
+
 ---
 ![Stats](https://github-readme-stats.vercel.app/api?username=justpace&show_icons=true&hide_border=true&theme=dark)
 ---
