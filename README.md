@@ -1,5 +1,5 @@
 ## Hello there, My name is [Turbo](https://github.com/xTurbo1/)! 😊
-I am a self-taught developer advancing each day.
+I am a self-taught developer, improving constantly.
  
 I am familiar in the languages:
  - Java
