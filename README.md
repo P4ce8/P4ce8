@@ -1,5 +1,5 @@
 # 💫 Introduction:
-Hi there, My name is [Turbo](https://github.com/xturbo1)! I'm a developer from the UK, and i'm currently studying IT at College!
+Hi there, My name is [Turbo](https://github.com/xturbo1)! I'm a diverse game developer from the UK, and i'm currently studying IT at College!
 
 Contact me on discord: @turbodev1
 
