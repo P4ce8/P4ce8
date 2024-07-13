@@ -1,5 +1,5 @@
 # 💫 Introduction:
-Hi there, My name is [Turbo](https://github.com/xturbo1)! I'm a diverse game developer from the UK, and i'm currently studying IT at College!
+Hi there, My name is [Suhail](https://github.com/suh8il)! I'm a diverse game developer from the UK, and i'm currently studying IT at College!
 
 Contact me on discord: @turbodev1
 
@@ -14,6 +14,6 @@ I am currently working on a BIG project at [ProsperGames](https://github.com/Pro
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xturbo1&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=xturbo1&icon=3&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=suh8il&icon=3&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
