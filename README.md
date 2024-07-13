@@ -3,7 +3,7 @@ Hi there, My name is [Suhail](https://github.com/suh8il)! I'm a diverse develope
 
 Contact me on discord: @ignsuh8il
 
-## 👨‍💻 What am I working on currently
+## 👨‍💻 What I'm currently working on
 I am currently working on a BIG project at [Zyra](https://github.com/ZyraDevelopment), feel free to join the [Discord server](https://www.zyra.club/discord).
 
 # 💻 Tech Stack
