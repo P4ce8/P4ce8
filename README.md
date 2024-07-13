@@ -1,7 +1,7 @@
 # 💫 Introduction:
-Hi there, My name is [Suhail](https://github.com/suh8il)! I'm a diverse game developer from the UK, and i'm currently studying IT at College!
+Hi there, My name is [Suhail](https://github.com/suh8il)! I'm a diverse developer that is proficient in many different programming languages from the UK. I am also an undegraduate; finished my first year of IT at College.
 
-Contact me on discord: @turbodev1
+Contact me on discord: @ignsuh8il
 
 ## 👨‍💻 What am I working on currently:
 I am currently working on a BIG project at [Zyra](https://github.com/ZyraDevelopment), feel free to join the [Discord server](https://www.zyra.club/discord).
